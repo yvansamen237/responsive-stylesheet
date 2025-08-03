@@ -43,6 +43,23 @@ div{
   padding: 2px;
 }
 
+@media screen and (min-width: 772px){
+    div{
+        border: 5px solid deeppink;
+        width: 45vw;
+    }
+    img{
+        height: 30vh;
+    }
+}
+
+@media screen and (min-width: 998px){
+    div{
+        border: 5px solid coral;
+        width: 30vw;
+    }
+}
+
 
 
 
